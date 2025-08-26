@@ -1,4 +1,12 @@
-![Martina Banner](./assets/Costanera.jpg)
+<!-- Banner mejorado -->
+<p align="center">
+  <img src="./assets/Costanera.jpg" alt="Martina Banner" width="100%"/>
+</p>
+
+<h2 align="center">Martina Canteros</h2>
+<p align="center">
+  <em>Fullstack Developer | React · Next.js · .NET · Supabase · Firebase</em>
+</p>
 
 <img alt="Hand Wave" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hola! Soy Martina</h2>
 
