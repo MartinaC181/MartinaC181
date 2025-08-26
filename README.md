@@ -1,4 +1,4 @@
-![Martina Banner](https://upload.wikimedia.org/wikipedia/commons/8/85/Costanera_Corrientes_al_atardecer.jpg)
+![Martina Banner](https://drive.google.com/file/d/1ACA4Y3Kw9lT4cdxAfF8tyyfclYs92-CZ/view?usp=sharing)
 
 <img alt="Hand Wave" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hola! Soy Martina</h2>
 
