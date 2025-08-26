@@ -1,6 +1,6 @@
 <!-- Banner mejorado -->
 <p align="center">
-  <img src="./assets/Costanera.jpg" alt="Martina Banner" width="80%"/>
+  <img src="./assets/Costanera.jpg" alt="Martina Banner" width="800"/>
 </p>
 
 <h2 align="center">Martina Canteros</h2>
