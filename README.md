@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Costanera_Corrientes_al_atardecer.jpg" 
-       alt="Banner Costanera Corrientes" width="100%" />
-</p>
 
 <!--horizontal divider(gradiant)-->
 <p align="center">
@@ -15,11 +10,6 @@
     <summary><h1 style="display: inline-block">Hola 👋, soy Martina</h1></summary>
   </ul>
 </div>
-
-<!--- snake -->
-<p align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake animation" />
-</p>
 
 <!-- Nueva frase motivacional -->
 <div id="user-content-toc">
