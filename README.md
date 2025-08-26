@@ -3,7 +3,7 @@
   <img src="./assets/Costanera.jpg" alt="Martina Banner" width="80%"/>
 </p>
 
-<h2 align="center">Martina Canteros</h2>
+<h2 align="center">Martina Abigail Canteros</h2>
 <p align="center">
   <em>Fullstack Developer | React · Next.js · .NET · Supabase · Firebase</em>
 </p>
