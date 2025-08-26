@@ -1,108 +1,52 @@
+![Martina Banner](https://upload.wikimedia.org/wikipedia/commons/8/85/Costanera_Corrientes_al_atardecer.jpg)
 
-<!--horizontal divider(gradiant)-->
+<img alt="Hand Wave" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hola! Soy Martina</h2>
+
+### 👩🏻‍💻 &nbsp;Sobre mí
+
+💡 &nbsp;Me gusta explorar nuevas tecnologías y crear soluciones de software con impacto real.\
+🎓 &nbsp;Actualmente me estoy formando en **desarrollo web y móvil**, con foco en **React/Next.js, React Native, .NET y bases de datos**.\
+🌱 &nbsp;Estoy profundizando en **Inteligencia Artificial, integración de APIs y despliegue en la nube**.\
+✍️ &nbsp;En mi tiempo libre también trabajo en proyectos creativos como mi emprendimiento **Voxel (impresiones 3D)**.\
+💬 &nbsp;Podés preguntarme sobre **Next.js, React Native, Supabase, Firebase, Tailwind, Minimal APIs en .NET y modelado de datos**.\
+✉️ &nbsp;Podés escribirme a **martiinacanteros@gmail.com**, siempre respondo lo antes posible.\
+📄 &nbsp;Podés ver mis proyectos en mi [perfil de GitHub](https://github.com/MartinaC181).
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+### 🛠 &nbsp;Stack Tecnológico
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet)&nbsp;\
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+### ⚙️ &nbsp;GitHub Analytics
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<a href="https://github.com/MartinaC181">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MartinaC181&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MartinaC181&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hola 👋, soy Martina</h1></summary>
-  </ul>
-</div>
+### 🤝🏻 &nbsp;Conectemos
 
-<!-- Nueva frase motivacional -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Construyendo ideas, una línea de código a la vez 🚀</h2></summary>
-  </ul>
-</div>
-
-<!--Intro start-->
-- 🧠 Aprendiendo y profundizando en **React/Next.js + TypeScript, Supabase, Firebase RTDB/Auth, Node/Express, Tailwind**, e **integración de IA (Gemini)**.  
-- 🗃️ Me interesan el **diseño y optimización de bases de datos** (MySQL/PostgreSQL, modelado ER, normalización, migración a NoSQL).  
-- ☁️ Deploy & DX: **Vercel (frontend)**, **Railway/Render (backend)**, CI simple, ambientes .env seguros.  
-- 💬 Pregúntame por **Next.js, React Native, Minimal APIs en .NET, Supabase/Firebase, Tailwind, modelado de datos**.  
-- 📫 Contacto: **martiinacanteros@gmail.com**  
-<!--Intro end-->
-
-<!--- stats & Trophy (start) -->
 <p align="center">
-  <table align="center">
-    <tr border="none">
-      <td width="50%" align="center">
-        <!-- GitHub Stats -->
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinaC181&theme=dark&show_icons=true&count_private=true" />
-        <br><br>
-        <!-- Streak -->
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" 
-             alt="streak" 
-             src="https://github-readme-streak-stats.herokuapp.com/?user=MartinaC181&theme=dark&hide_border=false" />
-      </td>
-      <td width="50%" align="center">
-        <!-- Top Langs -->
-        <img align="center" 
-             src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MartinaC181&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
-      </td>
-    </tr>
-  </table>
-
+<a href="https://www.linkedin.com/in/martina-abigail-canteros"><img src="https://img.shields.io/badge/-Martina%20Abigail%20Canteros-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:martiinacanteros@gmail.com"><img src="https://img.shields.io/badge/-martiinacanteros@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
-<!--- stats (end) -->
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías que uso 👩🏻‍💻</h2></summary>
-  </ul>
-</div>
-
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,html,css,js,ts,react,nextjs,tailwind,nodejs,express,cs,dotnet,java,py,mysql,postgres,supabase,firebase,mongodb,postman,vite,vercel,railway,docker&perline=14" />
-  </a>
-</p>
-
-<!-- Proyectos destacados -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Proyectos destacados</h2></summary>
-  </ul>
-</div>
-
-- 🗣️ **IberApp**: Traducción de jerga local con origen cultural y ejemplos.  
-- 💆 **Sentirse Bien**: Sitio SPA en Next.js con reservas y panel admin.  
-- 💪 **MiGymApp**: App móvil en React Native con vistas Perfil/IMC y estilos globales.  
-
-<!-- Connect with me -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Conectemos 🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
-<p align="center">
-  <a href="https://www.linkedin.com/in/martina-abigail-canteros" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
-  </a>
-  <a href="mailto:martiinacanteros@gmail.com" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="email" height="50" width="50" />
-  </a>
-</p>
-
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=MartinaC181&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
-
-<!--horizontal divider(gradiant)-->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
-
 
 Last Edited on: 26/08/2025
