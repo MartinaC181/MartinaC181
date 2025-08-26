@@ -1,4 +1,4 @@
-![Martina Banner](https://drive.google.com/file/d/1ACA4Y3Kw9lT4cdxAfF8tyyfclYs92-CZ/view?usp=sharing)
+![Martina Banner](./assets/Costanera.jpg)
 
 <img alt="Hand Wave" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hola! Soy Martina</h2>
 
